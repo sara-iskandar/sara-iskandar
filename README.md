@@ -38,13 +38,9 @@ Predicts house prices using regression models.
 ---
 
 ## 💬 Let's Connect
-📧 **Email:** your.email@example.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)  
+📧 **Email:** sara.skandar@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/sara-iskandar)  
 
 ---
 
 ⭐ *“Building projects that teach me something new every day.”*
-
----
-
-![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=sara-iskandar&show_icons=true&theme=radical)
