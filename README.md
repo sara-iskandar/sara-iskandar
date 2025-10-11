@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi there, I'm Sara 👋
 
-<!--
-**sara-iskandar/sara-iskandar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Machine Learning Engineer | Data Science Enthusiast | Software Developer**
 
-Here are some ideas to get you started:
+I’m passionate about turning data into actionable insights and building AI-driven solutions that make an impact.  
+Currently exploring **Natural Language Processing (NLP)**, **Machine Learning**, and **API deployment**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects
+
+### 🟢 [Sentiment Analysis API](https://github.com/sara-iskandar/sentiment-analysis)  
+FastAPI-based machine learning API that predicts sentiment from IMDB movie reviews.  
+- Text preprocessing, TF-IDF vectorization, Logistic Regression & Naive Bayes.  
+- Interactive API with `/predict` endpoint.
+
+### 🏡 [House Prices Predictor](https://github.com/sara-iskandar/house-prices-predictor)  
+Predicts house prices using regression models.  
+- Feature engineering, EDA, model comparison (Linear Regression, Random Forest, XGBoost).  
+- Clean visualizations and ready-to-deploy pipeline.
+
+---
+
+## 🧠 Skills & Tools
+
+**Languages:** Python, SQL, HTML, CSS  
+**Libraries & Frameworks:** NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, FastAPI  
+**Machine Learning:** Regression, Classification, NLP, Model Deployment  
+**Tools & Platforms:** Jupyter, Git, GitHub, VS Code, Kaggle  
+
+---
+
+## 🌱 Currently Learning
+- Deep Learning with TensorFlow & PyTorch  
+- API Deployment & Cloud Platforms (Render, Hugging Face Spaces)  
+- MLOps basics
+
+---
+
+## 💬 Let's Connect
+📧 **Email:** your.email@example.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)  
+
+---
+
+⭐ *“Building projects that teach me something new every day.”*
+
+---
+
+![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=sara-iskandar&show_icons=true&theme=radical)
