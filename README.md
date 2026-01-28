@@ -16,13 +16,6 @@ Currently exploring  **Machine Learning**, **Large Language Models (LLMs)**, **R
 
 ---
 
-## 🌱 Currently Learning
-- Deep Learning with TensorFlow & PyTorch  
-- API Deployment & Cloud Platforms (Render, Hugging Face Spaces)  
-- MLOps basics
-
----
-
 ## 💬 Let's Connect
 📧 **Email:** sara.skandar@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/sara-iskandar)  
