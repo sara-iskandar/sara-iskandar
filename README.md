@@ -7,20 +7,6 @@ Currently exploring  **Machine Learning**, **Large Language Models (LLMs)**, **R
 
 ---
 
-## 🚀 Featured Projects
-
-### 🟢 [Sentiment Analysis API](https://github.com/sara-iskandar/sentiment-analysis)  
-FastAPI-based machine learning API that predicts sentiment from IMDB movie reviews.  
-- Text preprocessing, TF-IDF vectorization, Logistic Regression & Naive Bayes.  
-- Interactive API with `/predict` endpoint.
-
-### 🏡 [House Prices Predictor](https://github.com/sara-iskandar/house-prices-predictor)  
-Predicts house prices using regression models.  
-- Feature engineering, EDA, model comparison (Linear Regression, Random Forest, XGBoost).  
-- Clean visualizations and ready-to-deploy pipeline.
-
----
-
 ## 🧠 Skills & Tools
 
 **Languages:** Python, SQL, HTML, CSS  
